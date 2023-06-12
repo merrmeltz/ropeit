@@ -1,0 +1,3 @@
+english
+images/GolfBall.png
+30
